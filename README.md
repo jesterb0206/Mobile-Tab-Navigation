@@ -15,11 +15,11 @@
 
 <br>
 
-![Mobile Tab Navigation]()
+![Mobile Tab Navigation](images/mobile-tab-navigation.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Mobile-Tab-Navigation/)
 
 <br>
 
